@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1555695437 source:c:\users\lucas\desktop\seg\diffiehellman\imp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<math.h>
+	"tad.h"
+
+1555695187 source:c:\users\lucas\desktop\seg\diffiehellman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<math.h>
+	"tad.h"
+
+1555606092 c:\users\lucas\desktop\seg\diffiehellman\imp.c
+
+1555606471 c:\users\lucas\desktop\seg\diffiehellman\cab.c
+	<stdio.h>
+	<stdlib.h>
+	"main.c"
+
+1555695362 source:c:\users\lucas\desktop\seg\diffiehellman\cab.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<math.h>
+	"tad.h"
+
+1555606253 c:\users\lucas\desktop\seg\diffiehellman\main.c
+	<stdio.h>
+	<stdlib.h>
+	"imp.c"
+	"cab.c"
+
+1555695023 c:\users\lucas\desktop\seg\diffiehellman\tad.h
+
