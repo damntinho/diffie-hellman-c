@@ -1,11 +1,11 @@
 # Diffie-Hellman C
-#H3 Created by: Lucas Gulart
+### Created by: Lucas Gulart
 
-#H3 Course: Computer Science
+### Course: Computer Science
 
-#H3 Created on: Code Blocks
+### Created on: Code Blocks
 
-#H3 Operational System: Windows 7 Ultimate - 64x
+### Operational System: Windows 7 Ultimate - 64x
 
 ---
 
