@@ -1,1 +1,1 @@
-# diffie-hellman-c
+# Diffie-Hellman C
